@@ -10,3 +10,5 @@ lib_deps =
 
 Please see the platformio.ini
 tested with these libraries in CYD 
+
+### COPY the /misc/User_Setup.h  in /.pio/libdeps/esp32dev/TFT_eSPI
