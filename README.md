@@ -9,4 +9,4 @@ lib_deps =
 	bodmer/TFT_eWidget @ 0.0.6
 
 Please see the platformio.ini
-tested with these libraries
+tested with these libraries in CYD 
